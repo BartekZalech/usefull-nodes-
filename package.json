@@ -1,0 +1,23 @@
+{
+  "name": "nodes",
+  "version": "1.0.0",
+  "description": "nodes for webdev",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp-cli": "^2.3.0",
+    "gulp-flatmap": "^1.0.2",
+    "gulp-foreach": "^0.1.0",
+    "handbrake-js": "^5.0.2",
+    "path": "^0.12.7",
+    "xls-to-json": "^2.1.0"
+  },
+  "devDependencies": {
+    "@hayes0724/web-font-converter": "^1.0.5",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zalechtech.pl",
+  "license": "ISC"
+}
